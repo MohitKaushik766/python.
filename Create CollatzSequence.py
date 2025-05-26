@@ -13,6 +13,6 @@ def collatz_sequence(n):
     print()  
 
 if __name__ == "__main__":
-    print(' Name: Rahul G \n USN: 1AY24AI088 \n Section: O')
+    print(' Name: Mohit \n USN: 1AY24AI071 \n Section: O')
     start_number = int(input("Enter a positive integer to start the Collatz sequence: "))
     collatz_sequence(start_number)

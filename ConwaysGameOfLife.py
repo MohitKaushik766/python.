@@ -44,7 +44,7 @@ def print_grid(grid):
         print(''.join(['*' if cell == 1 else ' ' for cell in row]))
 
 if __name__ == "__main__":
-    print(' Name: Rahul G \n USN: 1AY24AI088 \n Section: O')
+    print(' Name: Mohit \n USN: 1AY24AI071 \n Section: O')
     rows = 20
     cols = 40
     generations = 10
